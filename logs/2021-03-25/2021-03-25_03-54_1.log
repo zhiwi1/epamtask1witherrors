@@ -1,0 +1,60 @@
+2021-03-25 02:35:06 [main] INFO  org.zhyuliuk.array.Main- YEah im logger
+2021-03-25 02:35:06 [main] ERROR org.zhyuliuk.array.Main- error log
+2021-03-25 02:35:06 [main] INFO  org.zhyuliuk.array.Main- info
+2021-03-25 02:35:06 [main] INFO  org.zhyuliuk.array.Main- Hello World
+2021-03-25 02:35:06 [main] INFO  org.zhyuliuk.array.Main- YEah im logger
+2021-03-25 02:35:06 [main] ERROR org.zhyuliuk.array.Main- error log
+2021-03-25 02:42:11 [main] INFO  org.zhyuliuk.array.Main- info
+2021-03-25 02:42:11 [main] INFO  org.zhyuliuk.array.Main- Hello World
+2021-03-25 02:42:11 [main] INFO  org.zhyuliuk.array.Main- YEah im logger
+2021-03-25 02:42:11 [main] ERROR org.zhyuliuk.array.Main- error log
+2021-03-25 02:42:11 [main] INFO  org.zhyuliuk.array.Main- info
+2021-03-25 02:42:11 [main] INFO  org.zhyuliuk.array.Main- Hello World
+2021-03-25 02:42:11 [main] INFO  org.zhyuliuk.array.Main- YEah im logger
+2021-03-25 02:42:11 [main] ERROR org.zhyuliuk.array.Main- error log
+2021-03-25 02:42:11 [main] INFO  org.zhyuliuk.array.Main- info
+2021-03-25 02:42:11 [main] INFO  org.zhyuliuk.array.Main- Hello World
+2021-03-25 02:42:11 [main] INFO  org.zhyuliuk.array.Main- YEah im logger
+2021-03-25 02:42:11 [main] ERROR org.zhyuliuk.array.Main- error log
+2021-03-25 02:42:11 [main] INFO  org.zhyuliuk.array.Main- info
+2021-03-25 02:42:11 [main] INFO  org.zhyuliuk.array.Main- Hello World
+2021-03-25 02:42:11 [main] INFO  org.zhyuliuk.array.Main- YEah im logger
+2021-03-25 02:42:11 [main] ERROR org.zhyuliuk.array.Main- error log
+2021-03-25 02:42:11 [main] INFO  org.zhyuliuk.array.Main- info
+2021-03-25 02:42:11 [main] INFO  org.zhyuliuk.array.Main- Hello World
+2021-03-25 02:42:11 [main] INFO  org.zhyuliuk.array.Main- YEah im logger
+2021-03-25 02:42:11 [main] ERROR org.zhyuliuk.array.Main- error log
+2021-03-25 02:43:06 [main] INFO  org.zhyuliuk.array.Main- info
+2021-03-25 02:43:06 [main] INFO  org.zhyuliuk.array.Main- Hello World
+2021-03-25 02:43:06 [main] INFO  org.zhyuliuk.array.Main- YEah im logger
+2021-03-25 02:43:06 [main] ERROR org.zhyuliuk.array.Main- error log
+2021-03-25 02:43:06 [main] INFO  org.zhyuliuk.array.Main- info
+2021-03-25 02:43:06 [main] INFO  org.zhyuliuk.array.Main- Hello World
+2021-03-25 02:43:06 [main] INFO  org.zhyuliuk.array.Main- YEah im logger
+2021-03-25 02:43:06 [main] ERROR org.zhyuliuk.array.Main- error log
+2021-03-25 02:43:06 [main] INFO  org.zhyuliuk.array.Main- info
+2021-03-25 02:43:06 [main] INFO  org.zhyuliuk.array.Main- Hello World
+2021-03-25 02:43:06 [main] INFO  org.zhyuliuk.array.Main- YEah im logger
+2021-03-25 02:43:06 [main] ERROR org.zhyuliuk.array.Main- error log
+2021-03-25 02:43:06 [main] INFO  org.zhyuliuk.array.Main- info
+2021-03-25 02:43:06 [main] INFO  org.zhyuliuk.array.Main- Hello World
+2021-03-25 02:43:06 [main] INFO  org.zhyuliuk.array.Main- YEah im logger
+2021-03-25 02:43:06 [main] ERROR org.zhyuliuk.array.Main- error log
+2021-03-25 02:43:06 [main] INFO  org.zhyuliuk.array.Main- info
+2021-03-25 02:43:06 [main] INFO  org.zhyuliuk.array.Main- Hello World
+2021-03-25 02:43:06 [main] INFO  org.zhyuliuk.array.Main- YEah im logger
+2021-03-25 02:43:06 [main] ERROR org.zhyuliuk.array.Main- error log
+2021-03-25 03:30:10 [main] INFO  org.zhyuliuk.array.Main- Hello World
+2021-03-25 03:30:10 [main] INFO  org.zhyuliuk.array.Main- YEah im logger
+2021-03-25 03:36:56 [main] INFO  org.zhyuliuk.array.service.DefinitionArrayService- counter : 4
+2021-03-25 03:36:56 [main] INFO  org.zhyuliuk.array.service.SearchArrayService- max : Array{arr=[-1, -2, -3, 1, 2, 3, 10, -10]}, result : 10 
+2021-03-25 03:40:50 [main] INFO  org.zhyuliuk.array.service.DefinitionArrayService- quantity of positive elements : Array{arr=[-1, -2, -3, 1, 2, 3, 10, -10]},result : 4
+2021-03-25 03:40:50 [main] INFO  org.zhyuliuk.array.service.SearchArrayService- max : Array{arr=[-1, -2, -3, 1, 2, 3, 10, -10]}, result : 10 
+2021-03-25 03:50:31 [main] INFO  org.zhyuliuk.array.service.DefinitionArrayService- sum of elements : Array{arr=[-1, -2, -3, 1, 2, 3, 10, -10]},result : 0
+2021-03-25 03:50:31 [main] INFO  org.zhyuliuk.array.service.DefinitionArrayService- quantity of negative elements : Array{arr=[-1, -2, -3, 1, 2, 3, 10, -10]},result : 4
+2021-03-25 03:50:31 [main] INFO  org.zhyuliuk.array.service.DefinitionArrayService- quantity of positive elements : Array{arr=[-1, -2, -3, 1, 2, 3, 10, -10]},result : 4
+2021-03-25 03:50:31 [main] INFO  org.zhyuliuk.array.service.DefinitionArrayService- sum of elements : Array{arr=[-1, -2, -3, 1, 2, 3, 10, -10]},result : 0
+2021-03-25 03:50:31 [main] INFO  org.zhyuliuk.array.service.DefinitionArrayService- average value elements : Array{arr=[-1, -2, -3, 1, 2, 3, 10, -10]},result : 0.0
+2021-03-25 03:50:31 [main] INFO  org.zhyuliuk.array.service.SearchArrayService- max : Array{arr=[-1, -2, -3, 1, 2, 3, 10, -10]}, result : 10 
+2021-03-25 03:50:31 [main] INFO  org.zhyuliuk.array.service.SearchArrayService- min : Array{arr=[-1, -2, -3, 1, 2, 3, 10, -10]}, result : -10 
+2021-03-25 03:54:37 [main] INFO  org.zhyuliuk.array.service.DefinitionArrayService- sum of elements : Array{arr=[-1, -2, -3, 1, 2, 3, 10, -10]},result : 0
